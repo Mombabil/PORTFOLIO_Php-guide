@@ -1,0 +1,26 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 0.9rem;
+    background-color: whitesmoke;
+}
+
+
+.code-example{
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    width: 75%;
+    margin: 0 auto;
+    padding: 12px 24px;
+    background: whitesmoke;
+}
+.comment{
+    color: rgb(212, 148, 28);
+}
+
+.block{
+    border: 1px solid black;
+    background-color: rgb(201, 196, 189);
+    padding: 12px 24px;
+    margin: 12px 0;
+}
