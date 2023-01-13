@@ -6,12 +6,12 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./style.css">
-    <title>Section entrainement à PHP</title>
+    <title>Guide PHP pas à pas</title>
 </head>
 
 <body>
 </body>
-<h1>Section entrainement à PHP</h1>
+<h1>Guide PHP pas à pas</h1>
 <h2>TUTOS</h2>
 <p><a href="./TUTOS/lesVariables.php">Les variables PHP</a></p>
 <p><a href="./TUTOS/lesFonctions.php">Les fonctions PHP</a></p>
