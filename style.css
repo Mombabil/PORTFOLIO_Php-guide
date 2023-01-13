@@ -24,3 +24,11 @@ body{
     padding: 12px 24px;
     margin: 12px 0;
 }
+.tables{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    width: 90%; 
+}
